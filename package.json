@@ -4,8 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "jest",
-    "start": "random.test.js"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -23,5 +22,8 @@
   "homepage": "https://github.com/btking1/jest-another-RPG#readme",
   "devDependencies": {
     "jest": "^28.1.1"
+  },
+  "engines":{
+    "node": "16.15.1"
   }
 }
