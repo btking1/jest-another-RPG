@@ -33,7 +33,7 @@ jest another RPG is a simple RPG game that is built with the jest framework.
 <p>&nbsp;</p>
 
 
-![SCREENSHOOT](https://github.com/btking1/zookeeper/blob/main/Public/assets/images/zookeeper-screenshot.jpg)
+![SCREENSHOOT](https://github.com/btking1/jest-another-RPG/blob/main/img/jest-screenshot.jpg)
 
 
 <p>&nbsp;</p>
